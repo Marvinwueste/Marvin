@@ -1,33 +1,34 @@
 ## Einkaufsliste
-Hänchenbrust 250g
+- Hänchenbrust 250g
 
-Reis 400g
+- Reis 400g
 
-Kokussnussmilch
+- Kokussnussmilch
 
-Lauchzwiebeln
+- Lauchzwiebeln
 
 ## Zubereitung:
 
-Reis kochen
+- Reis kochen
 
-Hänchenbrust anbraten 
+- Hänchenbrust anbraten 
 
-zwiebel und lauchzwiebeln dazugeben
+- zwiebel und lauchzwiebeln dazugeben
 
-anbraten
+- anbraten
 
-mit Sahne aufgießen
+- mit Sahne aufgießen
 
-Kokussnussmilch dazugeben
+- Kokussnussmilch dazugeben
 
-mit gewürzen abschmecken
+- mit gewürzen abschmecken
 
-10 minuten köcheln lassen
+- 10 minuten köcheln lassen
 
-servieren
+- servieren
 
-
+- sahne
+- 
 
 .....
 
